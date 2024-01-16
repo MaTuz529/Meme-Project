@@ -1,0 +1,22 @@
+html{
+    background-color: black;
+}
+img{
+    width: 100%;
+    border: 10px solid grey;
+}
+#boxb{
+    width: 50%;
+    margin-left: 25%;
+}
+
+.whitefont{
+    color: white;
+}
+
+h1{
+    text-transform: uppercase;
+}
+*{
+    text-align: center;
+}
